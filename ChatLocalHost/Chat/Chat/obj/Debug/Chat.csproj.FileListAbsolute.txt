@@ -1,0 +1,10 @@
+C:\Users\Valentin\Dropbox\facult\sem5\C#\Chat\Chat\bin\Debug\Chat.dll
+C:\Users\Valentin\Dropbox\facult\sem5\C#\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Valentin\Dropbox\facult\sem5\C#\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\Valentin\Dropbox\facult\sem5\C#\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Valentin\Dropbox\facult\sem5\C#\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\.NET\ChatLocalHost\Chat\Chat\bin\Debug\Chat.dll
+C:\Users\Andrei\Desktop\.NET\ChatLocalHost\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Andrei\Desktop\.NET\ChatLocalHost\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\.NET\ChatLocalHost\Chat\Chat\obj\Debug\Chat.dll
+C:\Users\Andrei\Desktop\.NET\ChatLocalHost\Chat\Chat\obj\Debug\Chat.pdb
